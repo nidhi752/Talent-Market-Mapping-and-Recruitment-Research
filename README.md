@@ -1,164 +1,176 @@
+<div align="center">
+
 # Talent Market Mapping & Recruitment Research
 
-**An Excel-based market research and recruitment analytics project focused on India's Enterprise AI, Generative AI, and SaaS ecosystem.**
+### Turning employer research into practical recruitment and business-development decisions
 
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Domain](https://img.shields.io/badge/Domain-Talent%20Research-4169E1?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Market%20Analysis-orange?style=flat-square)
+**Enterprise AI · GenAI · SaaS | India | October 2026**
 
-## Overview
+![Research](https://img.shields.io/badge/Research-Talent%20Intelligence-163B65?style=flat-square) ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat-square) ![Scope](https://img.shields.io/badge/Scope-44%20Companies-47689B?style=flat-square) ![Study](https://img.shields.io/badge/Type-Independent%20Case%20Study-666666?style=flat-square)
 
-This project explores how structured market research and data-driven analysis can support recruitment planning, talent mapping, and client prospect prioritisation.
+*A research-led recruitment case study built to demonstrate how a consultant could understand a client's job order, map relevant employers, source potential candidates, and identify prospective client accounts.*
 
-The workbook maps companies across India's AI and SaaS ecosystem, compares job roles and required skills, and develops a framework for identifying potential recruitment clients based on hiring signals, company characteristics, and estimated recruitment-agency openness.
-
-It also includes a sample job order, candidate screening scorecard, sourcing strategy, recruitment funnel, and market insights report.
-
-## Project Objectives
-
-- Map relevant companies across India's AI, GenAI, analytics, and SaaS ecosystem.
-- Identify common job roles and their associated technical and professional skills.
-- Develop a structured approach to prioritising prospective recruitment clients.
-- Demonstrate how candidates can be evaluated against defined job requirements.
-- Model the candidate sourcing funnel and identify potential conversion bottlenecks.
-- Translate research findings into actionable recommendations for recruitment and business development.
-
-## Project Scope
-
-| Component | Description |
-|---|---|
-| Company database | 44 companies mapped across selected industry segments and Indian hubs |
-| Role analysis | 7 job roles compared across 21 skills |
-| Client prospecting | Weighted scoring model for preliminary prospect prioritisation |
-| Sample job order | Illustrative hiring requirement with screening criteria |
-| Candidate scorecard | Structured candidate evaluation against role requirements |
-| Sourcing strategy | Proposed channels and workflow for candidate identification |
-| Recruitment funnel | Illustrative candidate progression and conversion analysis |
-| Market report | Summary of findings, opportunities, and research limitations |
-
-## Key Features
-
-### 1. Talent Market Mapping
-
-Organises company-level research into a structured database to compare industry segments, locations, potential hiring requirements, and relevant job families.
-
-The objective is to create a usable research foundation for understanding where recruitment opportunities may exist.
-
-### 2. Job Role & Skills Analysis
-
-Compares seven professional roles across 21 skills to identify shared requirements and role-specific competencies.
-
-This helps demonstrate how a recruiter can translate a job description into practical sourcing keywords and screening criteria.
-
-### 3. Client Prospect Prioritisation
-
-Uses a weighted scoring framework to rank potential recruitment clients according to four dimensions:
-
-- Company size
-- Breadth of relevant job roles
-- Estimated openness to recruitment agencies
-- Hiring signals
-
-The model supports initial prioritisation rather than predicting the likelihood of winning a client. Its output depends on the quality of the underlying research and scoring assumptions.
-
-### 4. Recruitment Workflow & Candidate Screening
-
-Includes a sample job order and candidate scorecard to illustrate how a hiring requirement can be translated into explicit evaluation criteria.
-
-The screening framework distinguishes essential requirements from weighted evaluation criteria, helping prevent a high overall score from compensating for a missing must-have qualification.
-
-### 5. Recruitment Funnel Analysis
-
-Models the candidate journey from initial sourcing to client shortlisting.
-
-The illustrative funnel can be used to examine contact rates, response rates, candidate interest, and shortlist conversion, helping identify where a recruitment process may require improvement.
-
-### 6. Market Insights & Recommendations
-
-Summarises patterns in the mapped dataset, including the geographic distribution of selected companies, role coverage, prospect rankings, and possible sourcing priorities.
-
-Findings are treated as research hypotheses where live hiring activity or recruitment-agency policies have not been independently confirmed.
-
-## Methodology
-
-The project follows a structured research workflow:
-
-1. **Define the market:** Select relevant industry segments, company categories, and job families.
-2. **Collect company information:** Organise company-level research into a standardised Excel database.
-3. **Map roles and skills:** Compare professional roles against a defined skills matrix.
-4. **Build a scoring framework:** Apply weighted criteria to prioritise potential recruitment clients.
-5. **Model recruitment workflows:** Create a sample job order, screening scorecard, sourcing plan, and illustrative funnel.
-6. **Analyse the results:** Identify patterns, prioritisation opportunities, and potential process bottlenecks.
-7. **Validate the findings:** Check source quality, evidence freshness, and assumptions before making business recommendations.
-
-## Tools & Skills Demonstrated
-
-**Tools**
-- Microsoft Excel
-- Spreadsheet-based data organisation, filtering, and analysis
-- Weighted scoring and comparative analysis
-
-**Research & Business Skills**
-- Talent market mapping
-- Company and industry research
-- Job-description analysis
-- Candidate sourcing strategy
-- Client prospect research
-- Recruitment pipeline analysis
-- Structured screening and evaluation
-- Business insight development
-
-## Key Learnings
-
-- Company size and hiring breadth alone are insufficient to prioritise recruitment prospects.
-- Hiring signals must be distinguished from verified open vacancies.
-- Recruitment-agency openness should be validated rather than assumed.
-- Explicit screening criteria can make candidate evaluation more consistent.
-- Funnel metrics help identify potential inefficiencies, but illustrative assumptions must not be presented as actual recruitment performance.
-- Research quality and source freshness directly affect the reliability of business recommendations.
-
-## Limitations & Data Integrity
-
-This project is a research and analytical demonstration, not a live recruitment database.
-
-- Company-level hiring signals and prospect scores require independent validation.
-- Role coverage does not necessarily indicate a current vacancy.
-- Open-role counts may differ in date, geography, and source methodology.
-- Agency openness scores represent estimates unless supported by direct evidence.
-- Recruitment funnel figures are illustrative and must not be interpreted as actual candidate conversion results.
-- Candidate examples, where simulated, should use fictional data and must not contain personal information.
-
-## Repository Structure
-
-```text
-talent-market-mapping-recruitment-research/
-│
-├── README.md
-├── Talent_Market_Mapping.xlsx
-└── screenshots/
-    ├── company-database.png
-    ├── role-skills-matrix.png
-    ├── client-prospect-ranking.png
-    └── recruitment-funnel.png
-```
-
-*The structure above is illustrative. Adjust filenames and folders to match the files actually committed to the repository.*
-
-## Future Improvements
-
-- Add source URLs, retrieval dates, and evidence-quality labels for company records.
-- Separate verified vacancies from estimated hiring signals.
-- Introduce confidence indicators and sensitivity analysis for the weighted scoring model.
-- Develop an interactive dashboard using Power BI or a similar visualisation tool.
-- Compare predicted sourcing funnel metrics with actual outcomes from a properly documented sourcing exercise.
-- Expand the company dataset and validate recruitment-agency policies where public information is available.
-
-## Intended Audience
-
-This project is relevant to recruitment research, talent acquisition, market intelligence, and business development workflows. It also demonstrates the application of structured analytical thinking to a business-oriented problem.
+</div>
 
 ---
 
-**Disclaimer:** This is an independent portfolio project. It is not affiliated with, endorsed by, or based on confidential information from any recruitment company. Company names are used for research purposes, and all unverified estimates should be treated as provisional.
+## At a glance
 
-**Author:** Nidhi [Last Name]
+| **44** employers mapped | **7** role families | **21** skills evaluated | **10** prospective accounts ranked |
+|:---:|:---:|:---:|:---:|
+| India-focused company database | Role-to-skill comparisons | Screening priorities | Weighted, provisional client fit |
+
+> [!IMPORTANT]
+> This is **independent desk research and a simulated recruitment assignment**, not a record of candidates placed, clients signed, or live searches completed. Company-to-role matches are research judgments, **not confirmed vacancies**. Hiring information may change after the dates captured in the workbook.
+
+## The problem
+
+A recruiter cannot start with a job title alone. A request for a “GenAI Engineer” might mean an LLM researcher, a Python backend engineer who has built RAG workflows, or a product-focused engineer shipping AI features. Each interpretation produces a different candidate pool.
+
+I built this project to answer four practical questions:
+
+1. **Where should I look?** Which employers operate in relevant talent markets?
+2. **Who should I search for?** Which role requirements are genuinely essential versus desirable?
+3. **How would I qualify a profile?** What evidence should appear in an initial screen?
+4. **Which companies may need recruitment support?** How can employer research guide business development?
+
+## Research-to-recruitment workflow
+
+```mermaid
+flowchart LR
+    A[Map employers] --> B[Compare roles and skills]
+    B --> C[Translate job order into search criteria]
+    C --> D[Find public professional profiles]
+    D --> E[Screen and document evidence]
+    E --> F[Prepare an evidence-based shortlist]
+    F --> G[Collect client feedback]
+    G -->|Refine requirements| C
+    A --> H[Prioritise prospective client accounts]
+```
+
+*The sourcing, screening and client-feedback stages above describe the proposed operating workflow; they are not represented as completed placements.*
+
+## What's in the Excel workbook?
+
+The workbook is the project's primary research deliverable. Open **`Talent_Market_Mapping(1).xlsx`** (rename the supplied workbook to this filename when uploading) and use these tabs:
+
+| Worksheet | What it contains | Recruitment use |
+|---|---|---|
+| **README** | Workbook navigation and definitions | Understand the model |
+| **Companies** | 44 employers, segments, India hubs, relevant roles, hiring fields and fit scores | Build target-employer lists |
+| **Roles & Skills** | 7 role families, typical titles and a 21-skill comparison | Create role-specific search criteria |
+| **Job Order** | Illustrative Associate GenAI Engineer request and assessment criteria | Separate must-haves from preferences |
+| **Sourcing Strategy** | Search channels, keywords, Boolean search and qualification approach | Plan candidate discovery |
+| **Insights** | Formula-driven employer and role summaries | Interpret patterns in the selected sample |
+| **Client Prospects** | Provisional top-10 employer ranking and outreach angles | Prepare account research |
+| **Assumptions** | Scoring weights and model inputs | Audit the ranking logic |
+| **Market Report** | Executive-style observations and recruiting implications | Communicate insights |
+| **Sources** | Research evidence log and links | Check provenance and freshness |
+| **Resume Bullets** | Suggested project descriptions | Present work accurately |
+
+### Roles covered
+
+| Code | Role family | Example screening focus |
+|:---:|---|---|
+| R1 | GenAI / LLM Engineer | Python, hands-on LLM applications, RAG, API delivery |
+| R2 | ML Engineer / MLOps | Deployment, pipelines, model monitoring |
+| R3 | Data Scientist | Statistics, Python/SQL, experiment design |
+| R4 | Data Engineer | SQL, ETL/ELT, orchestration and cloud data stacks |
+| R5 | ServiceNow Developer | Platform configuration, workflows, ITSM concepts |
+| R6 | AI Product Manager | Product requirements, evaluation metrics, stakeholder alignment |
+| R7 | Solutions Consultant / Pre-sales | Solution discovery, demos, technical communication |
+
+*The table highlights illustrative screening themes; consult the workbook for the full role-by-skill matrix.*
+
+## Case simulation: Associate GenAI Engineer
+
+**Client:** hypothetical B2B SaaS company · **Location:** Bengaluru (hybrid) · **Experience:** approximately 1–3 years · **Illustrative demand:** 2 positions
+
+| Must-have evidence | Preferred evidence |
+|---|---|
+| Practical Python development | LangChain / LlamaIndex exposure |
+| Built an LLM-powered application | LLM evaluation and quality measurement |
+| Hands-on retrieval-augmented generation (RAG) | Fine-tuning / LoRA / PEFT familiarity |
+| REST APIs and basic deployment capability | Docker / CI/CD and SaaS product context |
+
+A shortlist should be based on *what someone built and personally owned*, not merely whether their profile contains “AI” or a popular framework name. Salary range, notice-period limit, interview stages and final non-negotiables must be confirmed with the client before an actual search.
+
+### Example candidate search
+
+```text
+("GenAI" OR "LLM Engineer" OR "Generative AI" OR "AI Engineer")
+AND Python
+AND (RAG OR "retrieval augmented generation" OR LangChain OR "vector database")
+AND (Bengaluru OR Bangalore)
+```
+
+**Discovery channels:** approved internal database and referrals first; then LinkedIn, company career pages, public GitHub portfolios and relevant job boards. Searches should be adjusted to each channel's syntax and available filters.
+
+**Screening checklist:** confirm the candidate's interest, relevant delivery experience, location/hybrid preferences, compensation expectations, availability and permission to share their profile. Capture objective evidence and unresolved questions in structured notes, following applicable SOPs and privacy requirements.
+
+### Illustrative recruitment funnel — *targets, not actual results*
+
+```mermaid
+flowchart TD
+    A[200 profiles researched] --> B[160 personalised outreach attempts]
+    B --> C[40 responses]
+    C --> D[20 interested screens]
+    D --> E[8 evidence-backed shortlist profiles]
+```
+
+These quantities are hypothetical planning inputs intended to explain recruiter throughput and prioritisation; **no outreach or placement outcome is claimed**.
+
+## Selected findings and business implications
+
+- **Location concentration:** Bengaluru is the primary mapped India hub for **20 of 44** companies (approximately **45%**). This describes the selected research sample, not the overall Indian job market.
+- **Role relevance:** **39** mapped employers were associated with ML/MLOps roles and **38** with GenAI/LLM Engineering. These are likely role matches, **not validated open-position counts**.
+- **Client research:** The model currently places **Deloitte (4.05)**, **Accenture (4.03)** and **Cognizant (3.85)** at the top of the provisional client-fit ranking. A score is a prioritisation hypothesis, **not evidence of commercial opportunity or agency engagement**.
+- **Recruitment implication:** Search for demonstrable implementation skills (production APIs, retrieval quality, deployment ownership) instead of treating generic AI keywords as proof of fit.
+
+### Turning research into a client conversation
+
+> “I mapped employers and role requirements across India's enterprise AI market, particularly Python, RAG and production-oriented AI engineering. Which parts of your current hiring pipeline are hardest to fill, and would a role-specific talent snapshot be useful?”
+
+For actual business development, validate an employer's current requirements, procurement/vendor rules and relevant contact information before approaching them.
+
+## How to use this repository
+
+1. Download or clone this repository and open the Excel workbook in **Microsoft Excel**.
+2. Start with **README → Companies → Roles & Skills** to see how employers and target capabilities are connected.
+3. Review **Job Order** and **Sourcing Strategy** to see how research turns into search criteria and an initial screening plan.
+4. Review **Insights → Client Prospects → Assumptions** to understand and challenge prioritisation scores.
+5. Use **Sources** to validate evidence and recheck time-sensitive hiring information before making an external claim.
+6. Read the two-page **RGF case study PDF** for a concise narrative of the work.
+
+**Suggested repository layout** (rename the workbook and report to match these names):
+
+```text
+Talent-Market-Mapping/
+├── README.md
+├── Talent_Market_Mapping(1).xlsx
+└── report.pdf
+```
+
+No Python environment or installation step is required. This is an **Excel-based research project**, not a web scraper or automated applicant-tracking system.
+
+## Methodology, assumptions and limitations
+
+**Method:** targeted desk research, employer categorisation, role/skill mapping, formula-driven aggregation, a sample job order and weighted prospective-client scoring. The workbook keeps model assumptions and external links in dedicated worksheets.
+
+**Caveats:** This is a purposive sample of 44 companies; it is not statistically representative. Company size, likely roles, willingness to work with agencies and client-fit values include estimates. Some hiring fields and sources are time-sensitive; individual links may be third-party listings rather than official company confirmations. Always verify critical claims directly against company careers pages and date-stamp any updates. Do not infer that a person is actively seeking work solely because their public profile matches a search.
+
+**Ethical use:** Use only lawfully accessible professional information, avoid collecting unnecessary personal data, respect site terms and candidate privacy, and do not forward profiles without appropriate permission.
+
+## Deliverables
+
+- **Excel workbook:** employer mapping, roles/skills, sample job order, sourcing plan, insight tables, client prioritisation, assumptions and evidence log.
+- **Two-page PDF:** succinct, interview-friendly case study of the recruitment research approach.
+
+---
+
+<div align="center">
+
+**Built as an independent recruitment research portfolio project.**  
+*Research is useful when it changes a decision: where to search, what to screen, which client to approach, or how to improve after feedback.*
+
+</div>
